@@ -42,9 +42,9 @@ The key solution considerations are:
 
 TBD
 
-## Class Diagram
+## System Design Process Flow
 
-![](_images/arch_diagrams/bioextractor-service-class-diagram.png)
+![](_images/arch_diagrams/bioextractor-system-design-diagram.png)
 
 ## Sequence Diagram
 
